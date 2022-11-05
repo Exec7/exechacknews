@@ -1,12 +1,12 @@
 {
   "odin":{
+    "text":"New lua - [MagicRP] Itachi menu",
+    "img":"https://i.imgur.com/p1gJqui.png",
+    "url":"https://exechack.cc/lua/post/[MagicRP]%20Itachi%20menu"
+    },
+   "dva":{
     "text":"New update 03.11.22",
     "img":"https://i.imgur.com/7jyXzNY.png",
     "url":"https://exechack.cc/forum/threads/681/"
-    },
-   "dva":{
-    "text":"New lua - URF.IM Lagger",
-    "img":"https://i.imgur.com/wranTvr.png",
-    "url":"https://exechack.cc/lua/post/[URF.IM]%20Lagger"
     }
 }
