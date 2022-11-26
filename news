@@ -1,22 +1,12 @@
 {
   "odin":{
-    "text":"Lua - Client Cinema",
-    "img":"https://i.imgur.com/RyLS9lm.png",
-    "url":"https://exechack.cc/lua/post/Client%20Cinema"
-    },
-   "dva":{
-    "text":"Last update 13.11.2022",
-    "img":"https://i.imgur.com/zPBSpKB.png",
-    "url":"https://exechack.cc/forum/threads/701/"
-    },
-    "tris":{
     "text":"Dot background",
     "img":"https://i.imgur.com/yvRSseb.png",
     "url":"https://exechack.cc/lua/post/Dot%20background"
     },
-    "_chetire":{
-    "text":"New update 13.11.2022",
-    "img":"https://i.imgur.com/7jyXzNY.png",
+   "dva":{
+    "text":"Last update 13.11.2022",
+    "img":"https://i.imgur.com/zPBSpKB.png",
     "url":"https://exechack.cc/forum/threads/701/"
     }
 }
