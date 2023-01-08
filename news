@@ -1,10 +1,10 @@
 {
-  "odin":{
+  "_odin":{
     "text":"Показыватель читеров",
     "img":"https://i.imgur.com/JjPo5sN.png",
     "url":"https://exechack.cc/forum/threads/344/"
     },
-   "dva":{
+   "_dva":{
     "text":"Автоматический FullBright",
     "img":"https://mcpedl.com/wp-content/uploads/2020/11/fullbright_1.png",
     "url":"https://exechack.cc/lua/post/Auto%20Fullbright%20bangclaw"
