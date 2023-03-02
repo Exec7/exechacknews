@@ -1,10 +1,10 @@
 {
-  "odin":{
+  "_odin":{
     "text":"New lua - notepad",
     "img":"https://i.imgur.com/tdRCbwA.png",
     "url":"https://exechack.cc/lua/post/Notepad"
     },
-   "dva":{
+   "_dva":{
     "text":"",
     "img":"https://i.imgur.com/jD22Fj0.png",
     "url":"https://discord.gg/ZEFQ7TXsyA"
