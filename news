@@ -1,12 +1,12 @@
 {
   "odin":{
-    "text":"New lua - Friend Notification",
-    "img":"https://i.imgur.com/ft4xnKZ.png",
-    "url":"https://exechack.cc/lua/post/Steam%20Friend%20Connection%20Notification"
+    "text":"Новая Семейная Подписка!",
+    "img":"https://i.imgur.com/swkSqDt.png",
+    "url":"https://exechack.cc/forum/subscriptions"
     },
    "dva":{
-    "text":"New update",
-    "img":"https://i.imgur.com/7jEacWJ.jpg",
-    "url":"https://exechack.cc/forum/threads/817/"
+    "text":"new lua - BSP Download",
+    "img":"https://i.imgur.com/Ou7wiH5.png",
+    "url":"https://exechack.cc/lua/post/BSP%20Download"
     }
 }
