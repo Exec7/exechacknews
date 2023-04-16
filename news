@@ -1,10 +1,10 @@
 {
-  "odin":{
+  "_odin":{
     "text":"Новая Семейная Подписка!",
     "img":"https://i.imgur.com/MGGEBAR.png",
     "url":"https://exechack.cc/forum/subscriptions"
     },
-   "dva":{
+   "_dva":{
     "text":"new lua - BSP Download",
     "img":"https://i.imgur.com/Ou7wiH5.png",
     "url":"https://exechack.cc/lua/post/BSP%20Download"
