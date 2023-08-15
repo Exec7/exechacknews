@@ -1,12 +1,22 @@
 {
-  "_odin":{
-    "text":"",
-    "img":"https://i.imgur.com/Y08aUM4.png",
-    "url":"https://exechack.cc/forum/docs"
+  "odin":{
+    "text":"new lua - Anti antiafk",
+    "img":"https://i.imgur.com/pjXQsGN.png",
+    "url":"https://exechack.cc/lua/post/Anti%20antiafk"
     },
-   "_dva":{
-    "text":"Try lua for Discord Status",
+   "dva":{
+    "text":"try lua - Discord Status",
     "img":"https://i.imgur.com/D2l7c1M.png",
-    "url":"https://exechack.cc/lua/post/Discord%20Status"
+    "url":"https://www.youtube.com/watch?v=JtEKGphNH-c&ab_channel=ChillExplosion"
+    },
+  "tri":{
+    "text":"new cheat media",
+    "img":"https://i3.ytimg.com/vi/JtEKGphNH-c/hqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=JtEKGphNH-c"
+    },
+  "chetire":{
+    "text":"join to discord",
+    "img":"https://clan.akamai.steamstatic.com/images/39154400/69066ea40e213b7d316e73324a4e38a63a7d7b63.jpg",
+    "url":"https://exechack.cc/forum/pages/discordjoin/"
     }
 }
