@@ -1,8 +1,8 @@
 {
-  "_odin":{
-    "text":"",
-    "img":"https://media.discordapp.net/attachments/1138807081596633259/1147171683233439814/ExecFix.png",
-    "url":"https://exechack.cc/forum/docs/#premium"
+  "odin":{
+    "text":"New lua - keybinds (premium only)",
+    "img":"https://i.imgur.com/78JXzKm.png",
+    "url":"https://exechack.cc/lua/post/Key%20Binds"
     },
    "_dva":{
     "text":"try lua - Discord Status",
