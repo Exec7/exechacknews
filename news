@@ -1,13 +1,13 @@
 {
   "odin":{
-    "text":"New lua - keybinds (premium only)",
+    "text":"New lua - keybinds",
     "img":"https://i.imgur.com/78JXzKm.png",
     "url":"https://exechack.cc/lua/post/Key%20Binds"
     },
-   "_dva":{
-    "text":"try lua - Discord Status",
-    "img":"https://i.imgur.com/D2l7c1M.png",
-    "url":"https://exechack.cc/lua/post/Discord%20Status"
+   "dva":{
+    "text":"premium",
+    "img":"https://i.imgur.com/N4tJDxw.png",
+    "url":"https://exechack.cc/forum/docs/#premium"
     },
   "_tri":{
     "text":"new cheat media",
