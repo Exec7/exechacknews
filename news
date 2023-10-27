@@ -1,10 +1,10 @@
 {
-  "odin":{
+  "_odin":{
     "text":"New lua - keybinds",
     "img":"https://i.imgur.com/78JXzKm.png",
     "url":"https://exechack.cc/lua/post/Key%20Binds"
     },
-   "dva":{
+   "_dva":{
     "text":"premium",
     "img":"https://i.imgur.com/N4tJDxw.png",
     "url":"https://exechack.cc/forum/docs/#premium"
