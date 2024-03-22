@@ -9,14 +9,14 @@
     "img":"https://i.imgur.com/5WZBikK.png",
     "url":"https://exechack.cc/forum/docs/#premium"
     },
-  "_tri":{
-    "text":"new cheat media",
-    "img":"https://i3.ytimg.com/vi/JtEKGphNH-c/hqdefault.jpg",
-    "url":"https://www.youtube.com/watch?v=JtEKGphNH-c"
+  "tri":{
+    "text":"last cheat media",
+    "img":"https://i.imgur.com/5cKS4jK.png",
+    "url":"https://www.youtube.com/shorts/SICksChwSKw"
     },
-  "_chetire":{
-    "text":"join to discord",
-    "img":"https://clan.akamai.steamstatic.com/images/39154400/69066ea40e213b7d316e73324a4e38a63a7d7b63.jpg",
-    "url":"https://exechack.cc/forum/pages/discordjoin/"
+  "chetire":{
+    "text":"предложи идею для обновления",
+    "img":"https://i.imgur.com/Ngi5CRu.png",
+    "url":"https://exechack.cc/forum/threads/946/"
     }
 }
