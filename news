@@ -1,20 +1,20 @@
 {
-  "_odin":{
-    "text":"Новый тг чат урбанички",
-    "img":"https://photo.brestcity.com/2022/12/telegram.jpg",
-    "url":"https://t.me/+iEJPEvjm_SwwMDIy"
+  "odin":{
+    "text":"",
+    "img":"https://i.imgur.com/Jy5ONg2.png",
+    "url":"https://i.imgur.com/Jy5ONg2.png"
     },
-   "_dva":{
+   "dva":{
+    "text":"предложи идею для обновления",
+    "img":"https://i.imgur.com/Ngi5CRu.png",
+    "url":"https://exechack.cc/forum/threads/946/"
+    },
+  "tri":{
     "text":"не нищий? Покажи свое превосходство",
     "img":"https://i.imgur.com/5WZBikK.png",
     "url":"https://exechack.cc/forum/docs/#premium"
     },
-  "tri":{
-    "text":"Жертвам трагедии в Подмосковье...",
-    "img":"https://i.imgur.com/HQvrJvh.png",
-    "url":"https://www.youtube.com/shorts/sk1MGJjYz98"
-    },
-  "chetire":{
+  "_chetire":{
     "text":"предложи идею для обновления",
     "img":"https://i.imgur.com/Ngi5CRu.png",
     "url":"https://exechack.cc/forum/threads/946/"
