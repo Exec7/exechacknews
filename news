@@ -1,13 +1,13 @@
 {
-  "_odin":{
+  "odin":{
     "text":"last new media",
-    "img":"https://i.imgur.com/AESHWuL.png",
-    "url":"https://youtu.be/CCZP3CO0x4s"
+    "img":"https://i.imgur.com/MyjFaqW.png",
+    "url":"https://www.youtube.com/watch?v=91LjJHIhyrY"
     },
-   "_dva":{
-    "text":"new media",
-    "img":"https://i.imgur.com/AESHWuL.png",
-    "url":"https://youtu.be/JzSsErxo8hw?si=0kKvunHgsx_D_0AN"
+   "dva":{
+    "text":"last new lua",
+    "img":"https://i.imgur.com/HhW0j6n.png",
+    "url":"https://exechack.cc/lua/index.php?a=Spawnmenu%20Unlocker"
     },
   "_tri":{
     "text":"new media",
