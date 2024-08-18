@@ -1,10 +1,10 @@
 {
-  "odin":{
+  "_odin":{
     "text":"last new media",
     "img":"https://i.imgur.com/IwdjSCf.png",
     "url":"https://www.youtube.com/watch?v=0ihpSuiYtDw"
     },
-   "dva":{
+   "_dva":{
     "text":"last new lua",
     "img":"https://i.imgur.com/HhW0j6n.png",
     "url":"https://exechack.cc/lua/index.php?a=Spawnmenu%20Unlocker"
