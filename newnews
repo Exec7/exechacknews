@@ -1,10 +1,10 @@
 {
-  "odin":{
+  "_odin":{
     "text":"last lua - hitlogger",
     "img":"https://i.imgur.com/r0CvAD0.png",
     "url":"https://exechack.cc/lua/index.php?a=Hitlogger"
     },
-   "dva":{
+   "_dva":{
     "text":"тг чат",
     "img":"https://i.imgur.com/ZgVi83O.png",
     "url":"https://web.telegram.org/a/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Durbanichkachats"
