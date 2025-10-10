@@ -1,18 +1,18 @@
 {
-  "odin":{
+  "_odin":{
     "text":"10/25 update",
     "img":"https://i.postimg.cc/ZYygnGxs/image.png",
     "url":"https://exechack.cc/forum/threads/1112/"
     },
-   "dva":{
+   "_dva":{
     "text":"discussion about updates",
     "img":"https://i.postimg.cc/htHQD7Dx/image.png",
     "url":"https://exechack.cc/forum/threads/1093/"
     },
   "tri":{
-    "text":"telegram chat",
-    "img":"https://i.postimg.cc/ncxf81mS/image.png",
-    "url":"https://t.me/urbanichkachats"
+    "text":"10/25 update",
+    "img":"https://i.postimg.cc/ZYygnGxs/image.png",
+    "url":"https://exechack.cc/forum/threads/1112/"
     },
   "_chetire":{
     "text":"new lua - prop podstava",
