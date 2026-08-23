@@ -1,11 +1,11 @@
 {
-  "_odin":{
-    "text":"update 6/26",
-    "img":"https://i.imgur.com/PGj4F4K.png",
-    "url":"https://x.exechack.cc/forum/threads/1170/"
+  "odin":{
+    "text":"",
+    "img":"https://i.postimg.cc/FKxWpvFG/image.png",
+    "url":"https://x.exechack.cc/forum/tickets/"
     },
    "dva":{
-    "text":"ExecServers Discord Chat",
+    "text":"ExecServers Discord",
     "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNs1ZggnartVwDWM1cAv1MwSe4TIW55-IJrisudMbD6Ve9dggdOVvNok&s=10",
     "url":"https://discord.com/invite/uKR8MHuvqQ"
     },
