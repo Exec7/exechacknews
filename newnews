@@ -1,17 +1,17 @@
 {
-  "_odin":{
-    "text":"Custom animated background",
-    "img":"https://i.postimg.cc/Pqw4Grm7/Snimok-ekrana-2026-09-28-104026.png",
-    "url":"https://x.exechack.cc/forum/threads/1189/"
+  "odin":{
+    "text":"10/26 update",
+    "img":"https://i.postimg.cc/MpgrwZcX/image.png",
+    "url":"https://x.exechack.cc/forum/threads/1190/"
     },
-   "_dva":{
+   "dva":{
     "text":"ExecServers Discord",
     "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNs1ZggnartVwDWM1cAv1MwSe4TIW55-IJrisudMbD6Ve9dggdOVvNok&s=10",
     "url":"https://discord.gg/S3hqvCbHpB"
     },
   "_tri":{
-    "text":"hvh obkak updated 26/05",
-    "img":"https://i.postimg.cc/rw191Xnp/image.png",
-    "url":"https://x.exechack.cc/lua/post/HVH+OBKAK"
+    "text":"ExecServers Discord",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNs1ZggnartVwDWM1cAv1MwSe4TIW55-IJrisudMbD6Ve9dggdOVvNok&s=10",
+    "url":"https://discord.gg/S3hqvCbHpB"
     }
 }
